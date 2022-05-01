@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ad Hoc Analysis of Transfer Fee Statistics"  
-date:   2022-05-01 21:55:41 +0100
+date:   2022-05-01 22:29:00 +0100
 categories: transfer fee
 ---
 
