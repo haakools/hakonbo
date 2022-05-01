@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My name is Håkon and I am a recent Master of Geoscience student. On this blog
    where I will post entries regarding things I am working on, studying or
    reading about. My interest range from mathematics, finance, geophysics,
-   ficitonal literature, philosophy and demographics.
+   fictional literature, philosophy and demographics.
 baseurl: "hakonbo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
