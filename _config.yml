@@ -31,8 +31,7 @@ twitter_username: N/A
 github_username:  haakools
 
 # Build settings
-theme: jekyll-theme-minimal
-remote_theme: remote_theme: mmistakes/minimal-mistakes
+theme: minima
 plugins:
   - jekyll-feed
 
