@@ -2,7 +2,7 @@
 layout: post
 title:  "Ad Hoc Analysis of Transfer Fee Statistics"  
 date:   2022-05-01 22:29:00 +0100
-categories: transfer fee
+categories: transferfee
 ---
 
 
@@ -21,6 +21,7 @@ To gather the wanted data, I quickly realized I could not use the same data as u
 After loading the data, now in euros, I tried to get a grasp of some of the pitfalls, limitation and caveats in the data. "Is there some very noticeable trends?" I asked myself. For every question I wanted answered, I always tried to rationalize what the outcome would be before I got the plots.
 
 Firstly, I made a distribution plot all the transfers within the big five leagues. The plot below shows the sum of the transfers in for each league, as a ratio of all the five leagues spending.
+
 ![Distribution plot for Big Five Leagues 1992-2021](/images/dist_plot.png "Distribution plot for Big Five Leagues").
 
 From the figure, some things stick out
